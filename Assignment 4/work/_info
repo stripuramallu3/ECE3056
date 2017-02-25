@@ -1,0 +1,463 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+Econtrol
+Z0 w1457205491
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/Users/Sreerama/Dropbox/Spring 2016/ECE 3056/Assignment 4
+Z4 8C:/Users/Sreerama/Dropbox/Spring 2016/ECE 3056/Assignment 4/ps_control.vhd
+Z5 FC:/Users/Sreerama/Dropbox/Spring 2016/ECE 3056/Assignment 4/ps_control.vhd
+l0
+L10
+VjLS6NaceV0BKg@Rhzc:bc3
+!s100 @^RVk>I9hi?M7U><f:oAZ0
+Z6 OP;C;10.4a;61
+32
+Z7 !s110 1459031972
+!i10b 1
+Z8 !s108 1459031972.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Sreerama/Dropbox/Spring 2016/ECE 3056/Assignment 4/ps_control.vhd|
+Z10 !s107 C:/Users/Sreerama/Dropbox/Spring 2016/ECE 3056/Assignment 4/ps_control.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+Abehavioral
+R1
+R2
+DEx4 work 7 control 0 22 jLS6NaceV0BKg@Rhzc:bc3
+l22
+L17
+V9:C_LPX4zX?>HLD1^VaV]3
+!s100 Lm[zSIP20fN98;XgUQOYj3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Edecode
+Z13 w1458867364
+Z14 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z15 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+R1
+R2
+R3
+Z16 8C:/Users/Sreerama/Dropbox/Spring 2016/ECE 3056/Assignment 4/ps_decode.vhd
+Z17 FC:/Users/Sreerama/Dropbox/Spring 2016/ECE 3056/Assignment 4/ps_decode.vhd
+l0
+L19
+VV53SWVFda9E<7G=[zVm[02
+!s100 UX;NWJBV3N70Bh5^PF=Vi2
+R6
+32
+R7
+!i10b 1
+R8
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Sreerama/Dropbox/Spring 2016/ECE 3056/Assignment 4/ps_decode.vhd|
+Z19 !s107 C:/Users/Sreerama/Dropbox/Spring 2016/ECE 3056/Assignment 4/ps_decode.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R14
+R15
+R1
+R2
+DEx4 work 6 decode 0 22 V53SWVFda9E<7G=[zVm[02
+l81
+L39
+V[Po2OU=f70<XCI]BK1WcT0
+!s100 8k2`J:Oa]f3^PJ0OaAkH<0
+R6
+32
+R7
+!i10b 1
+R8
+R18
+R19
+!i113 1
+R11
+R12
+Eexecute
+Z20 w1458930366
+Z21 DPx4 ieee 16 std_logic_signed 0 22 C<aanc0R`<LWPSe[JYRP^3
+R15
+R1
+R2
+R3
+Z22 8C:/Users/Sreerama/Dropbox/Spring 2016/ECE 3056/Assignment 4/ps_execute.vhd
+Z23 FC:/Users/Sreerama/Dropbox/Spring 2016/ECE 3056/Assignment 4/ps_execute.vhd
+l0
+L15
+VBQob<=2?ZUzK]XfIcJZA22
+!s100 deJ4<=cSeF8Si;KH^Aj_W3
+R6
+32
+Z24 !s110 1459031973
+!i10b 1
+R8
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Sreerama/Dropbox/Spring 2016/ECE 3056/Assignment 4/ps_execute.vhd|
+Z26 !s107 C:/Users/Sreerama/Dropbox/Spring 2016/ECE 3056/Assignment 4/ps_execute.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R21
+R15
+R1
+R2
+DEx4 work 7 execute 0 22 BQob<=2?ZUzK]XfIcJZA22
+l54
+L47
+V@JaT?DC2>Y>Z;I=jU^f_L3
+!s100 S3m8:EZaaNE?[Cf]_aR1o1
+R6
+32
+R24
+!i10b 1
+R8
+R25
+R26
+!i113 1
+R11
+R12
+Efetch
+Z27 w1459031966
+R14
+R15
+R1
+R2
+R3
+Z28 8C:/Users/Sreerama/Dropbox/Spring 2016/ECE 3056/Assignment 4/ps_fetch.vhd
+Z29 FC:/Users/Sreerama/Dropbox/Spring 2016/ECE 3056/Assignment 4/ps_fetch.vhd
+l0
+L16
+V@NTiNAFm1Sz5ig`3A>czd3
+!s100 `jTRU5B`d9kYmS9R=k@MZ0
+R6
+32
+R24
+!i10b 1
+Z30 !s108 1459031973.000000
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Sreerama/Dropbox/Spring 2016/ECE 3056/Assignment 4/ps_fetch.vhd|
+Z32 !s107 C:/Users/Sreerama/Dropbox/Spring 2016/ECE 3056/Assignment 4/ps_fetch.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R14
+R15
+R1
+R2
+DEx4 work 5 fetch 0 22 @NTiNAFm1Sz5ig`3A>czd3
+l44
+L25
+V`a6:oElVLgNmW78<cEK=f3
+!s100 Z98aUC:K`F[=Pk4V4LJL=3
+R6
+32
+R24
+!i10b 1
+R30
+R31
+R32
+!i113 1
+R11
+R12
+Ememory
+Z33 w1458871310
+R14
+R15
+R1
+R2
+R3
+Z34 8C:/Users/Sreerama/Dropbox/Spring 2016/ECE 3056/Assignment 4/ps_memory.vhd
+Z35 FC:/Users/Sreerama/Dropbox/Spring 2016/ECE 3056/Assignment 4/ps_memory.vhd
+l0
+L14
+VD3nRRHc8`A1^^1LS9hA?T3
+!s100 KjEVX1oEM`jRmdfcT<ZTg3
+R6
+32
+R24
+!i10b 1
+R30
+Z36 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Sreerama/Dropbox/Spring 2016/ECE 3056/Assignment 4/ps_memory.vhd|
+Z37 !s107 C:/Users/Sreerama/Dropbox/Spring 2016/ECE 3056/Assignment 4/ps_memory.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R14
+R15
+R1
+R2
+DEx4 work 6 memory 0 22 D3nRRHc8`A1^^1LS9hA?T3
+l71
+L33
+ViDbfg9VVE[VofjFdLE;QB2
+!s100 SZI@P8a`4P[OYEYLYBZon2
+R6
+32
+R24
+!i10b 1
+R30
+R36
+R37
+!i113 1
+R11
+R12
+Emy_clock
+R0
+R14
+R15
+R1
+R2
+R3
+Z38 8C:/Users/Sreerama/Dropbox/Spring 2016/ECE 3056/Assignment 4/ps_clock.vhd
+Z39 FC:/Users/Sreerama/Dropbox/Spring 2016/ECE 3056/Assignment 4/ps_clock.vhd
+l0
+L6
+V;QOUaBFAS>T[4VJ4]SXZF0
+!s100 H11]`>^Vje0^PlJ1WRlL90
+R6
+32
+Z40 !s110 1459031971
+!i10b 1
+Z41 !s108 1459031971.000000
+Z42 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Sreerama/Dropbox/Spring 2016/ECE 3056/Assignment 4/ps_clock.vhd|
+Z43 !s107 C:/Users/Sreerama/Dropbox/Spring 2016/ECE 3056/Assignment 4/ps_clock.vhd|
+!i113 1
+R11
+R12
+Abehavior
+R14
+R15
+R1
+R2
+DEx4 work 8 my_clock 0 22 ;QOUaBFAS>T[4VJ4]SXZF0
+l11
+L10
+V8aTNn`i`k@F>][i6zg8@`3
+!s100 Q1O]m^d0`]dUP65:;9nhX3
+R6
+32
+R7
+!i10b 1
+R41
+R42
+R43
+!i113 1
+R11
+R12
+Epipe_reg1
+Z44 w1459025141
+R1
+R2
+R3
+Z45 8C:/Users/Sreerama/Dropbox/Spring 2016/ECE 3056/Assignment 4/pipe_reg1.vhd
+Z46 FC:/Users/Sreerama/Dropbox/Spring 2016/ECE 3056/Assignment 4/pipe_reg1.vhd
+l0
+L9
+V3jJhPfEk5Mg9;Je=B7gEP0
+!s100 9B^EXJ5e@cNHYb=TIBOh80
+R6
+32
+Z47 !s110 1459031970
+!i10b 1
+Z48 !s108 1459031970.000000
+Z49 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Sreerama/Dropbox/Spring 2016/ECE 3056/Assignment 4/pipe_reg1.vhd|
+Z50 !s107 C:/Users/Sreerama/Dropbox/Spring 2016/ECE 3056/Assignment 4/pipe_reg1.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 9 pipe_reg1 0 22 3jJhPfEk5Mg9;Je=B7gEP0
+l18
+L17
+VcN=abQGJS:R;n?0M7M8mf3
+!s100 5l@KSeL=Yd72Ef@mQP0E90
+R6
+32
+R47
+!i10b 1
+R48
+R49
+R50
+!i113 1
+R11
+R12
+Epipe_reg2
+Z51 w1459025225
+R1
+R2
+R3
+Z52 8C:/Users/Sreerama/Dropbox/Spring 2016/ECE 3056/Assignment 4/pipe_reg2.vhd
+Z53 FC:/Users/Sreerama/Dropbox/Spring 2016/ECE 3056/Assignment 4/pipe_reg2.vhd
+l0
+L8
+V2399cJ9LzURW7R??VH@P13
+!s100 ^QClK;C;`5zVI[?@S=ZBK0
+R6
+32
+R47
+!i10b 1
+R48
+Z54 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Sreerama/Dropbox/Spring 2016/ECE 3056/Assignment 4/pipe_reg2.vhd|
+Z55 !s107 C:/Users/Sreerama/Dropbox/Spring 2016/ECE 3056/Assignment 4/pipe_reg2.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 9 pipe_reg2 0 22 2399cJ9LzURW7R??VH@P13
+l26
+L25
+VgQbO_V]0fNcHLKmmDNmjz3
+!s100 5[_6;9Rk^JCzzOJRfKaAX2
+R6
+32
+R47
+!i10b 1
+R48
+R54
+R55
+!i113 1
+R11
+R12
+Epipe_reg3
+Z56 w1458871289
+R1
+R2
+R3
+Z57 8C:/Users/Sreerama/Dropbox/Spring 2016/ECE 3056/Assignment 4/pipe_reg3.vhd
+Z58 FC:/Users/Sreerama/Dropbox/Spring 2016/ECE 3056/Assignment 4/pipe_reg3.vhd
+l0
+L8
+V^0DO5aFHo1AiaLLR6J0m13
+!s100 b8afYHojKKP>D[^WVR_E13
+R6
+32
+R40
+!i10b 1
+R41
+Z59 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Sreerama/Dropbox/Spring 2016/ECE 3056/Assignment 4/pipe_reg3.vhd|
+Z60 !s107 C:/Users/Sreerama/Dropbox/Spring 2016/ECE 3056/Assignment 4/pipe_reg3.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 9 pipe_reg3 0 22 ^0DO5aFHo1AiaLLR6J0m13
+l22
+L21
+V:A1RV=eJ[2oW:nf[=U`BW3
+!s100 f?^W1FalaR:^fh_NL=fVd3
+R6
+32
+R40
+!i10b 1
+R41
+R59
+R60
+!i113 1
+R11
+R12
+Epipe_reg4
+R0
+R1
+R2
+R3
+Z61 8C:/Users/Sreerama/Dropbox/Spring 2016/ECE 3056/Assignment 4/pipe_reg4.vhd
+Z62 FC:/Users/Sreerama/Dropbox/Spring 2016/ECE 3056/Assignment 4/pipe_reg4.vhd
+l0
+L8
+V98h;[]>3UCBRO3>cjbAE^2
+!s100 5^0YKG?873S8<hQXCiI4Q2
+R6
+32
+R40
+!i10b 1
+R41
+Z63 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Sreerama/Dropbox/Spring 2016/ECE 3056/Assignment 4/pipe_reg4.vhd|
+Z64 !s107 C:/Users/Sreerama/Dropbox/Spring 2016/ECE 3056/Assignment 4/pipe_reg4.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 9 pipe_reg4 0 22 98h;[]>3UCBRO3>cjbAE^2
+l20
+L19
+V5NU<6DiJakNa>2FQ=47^^3
+!s100 GABz9C5TXj_o7Czb4lODW3
+R6
+32
+R40
+!i10b 1
+R41
+R63
+R64
+!i113 1
+R11
+R12
+Espim_pipe
+Z65 w1459025366
+R21
+R15
+R1
+R2
+R3
+Z66 8C:/Users/Sreerama/Dropbox/Spring 2016/ECE 3056/Assignment 4/spim_pipe.vhd
+Z67 FC:/Users/Sreerama/Dropbox/Spring 2016/ECE 3056/Assignment 4/spim_pipe.vhd
+l0
+L26
+V0??Qo<za<49l]`DAM[K7B1
+!s100 lRnYP_:?Uh=eZFaL=Elz_3
+R6
+32
+R24
+!i10b 1
+R30
+Z68 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Sreerama/Dropbox/Spring 2016/ECE 3056/Assignment 4/spim_pipe.vhd|
+Z69 !s107 C:/Users/Sreerama/Dropbox/Spring 2016/ECE 3056/Assignment 4/spim_pipe.vhd|
+!i113 1
+R11
+R12
+Astructural
+R21
+R15
+R1
+R2
+Z70 DEx4 work 9 spim_pipe 0 22 0??Qo<za<49l]`DAM[K7B1
+l244
+L37
+Z71 V45eaXgUazA_NZNml9G_4O3
+Z72 !s100 [Oa[nJoVNSKAdJf[HNJiE2
+R6
+32
+R24
+!i10b 1
+R30
+R68
+R69
+!i113 1
+R11
+R12
